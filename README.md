@@ -12,7 +12,7 @@ Welcome to the official repository of Zucker Bucks (ZUCK), a revolutionary crypt
 - **Token Symbol:** ZUCK
 - **Decimals:** 18
 - **Total Supply:** 1,000,000 ZUCK
-- **Blockchain:** Ethereum (ERC-20) or Binance Smart Chain (BEP-20)
+- **Blockchain:** Binance Smart Chain (BEP-20)
 
 ## Smart Contract
 
