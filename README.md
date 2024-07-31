@@ -42,3 +42,35 @@ To interact with the Zucker Bucks token, you will need:
    ```bash
    git clone https://github.com/YourGitHubUsername/ZuckerBucks.git
    cd ZuckerBucks
+2. **Install Dependencies**
+
+   If you are using npm:
+
+   ```bash
+   npm install
+   ```
+
+   Or, if you are using yarn:
+
+   ```bash
+   yarn install
+   ```
+   ## Community
+
+Join our community to stay updated with the latest news and developments:
+
+- [Official Website](http://yourwebsite.com)
+- [Telegram Group](http://t.me/yourtelegramgroup)
+- [Twitter](http://twitter.com/yourtwitterhandle)
+- [Reddit](http://reddit.com/r/yourredditcommunity)
+- [Discord](http://discord.gg/yourdiscordserver)
+
+## Contributing
+
+We welcome contributions from the community. To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a pull request.
