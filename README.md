@@ -1,6 +1,13 @@
 # Zucker Bucks (ZUCK) Token
 
-![Zucker Bucks Logo](path_to_your_logo_image)
+![Banner Image](images/banner.png)
+
+## Interactive 3D Logo
+
+<div align="center">
+  <model-viewer src="assets/zuckerbucks-logo.glb" alt="Zucker Bucks 3D Logo" auto-rotate camera-controls></model-viewer>
+</div>
+
 
 ## Overview
 
