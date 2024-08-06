@@ -1,6 +1,6 @@
 # Zucker Bucks (ZUCK) Token
 
-![Banner Image](images/banner.png)
+![Banner Image](images/ZuckLogo.glb)
 
 ## Interactive 3D Logo
 
