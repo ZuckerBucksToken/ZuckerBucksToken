@@ -1,8 +1,9 @@
 # Zucker Bucks (ZUCK) Token
 
-![Banner Image](Banner.gif)
 
-
+<div align="center">
+  <img src="Banner.gif" alt="Banner Image" />
+</div>
 
 ## Overview
 
