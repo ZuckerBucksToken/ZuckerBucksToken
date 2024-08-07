@@ -64,7 +64,7 @@ Join our community to stay updated with the latest news and developments:
 
 
 - [Telegram](http://t.me/yourtelegramgroup)
-- [Twitter](http://twitter.com/yourtwitterhandle)
+- [Twitter](http://twitter.com/ZuckerBuckss)
 - [Discord](http://discord.gg/yourdiscordserver)
 
 ## Contributing
