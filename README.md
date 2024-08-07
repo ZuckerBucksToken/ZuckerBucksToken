@@ -19,8 +19,8 @@ Welcome to the official repository of Zucker Bucks (ZUCK), a revolutionary crypt
 
 ## Smart Contract
 
-- **Contract Address:** `0xYourTokenContractAddress`
-- **Etherscan/BscScan:** [View Contract](https://etherscan.io/address/0xYourTokenContractAddress) or [View Contract](https://bscscan.com/address/0xYourTokenContractAddress)
+- **Contract Address:** `0x1c66b0b8a2078cf9711527b330dc6141b6634b6b`
+- **BscScan:** [View Contract](https://bscscan.com/address/0x1c66b0b8a2078cf9711527b330dc6141b6634b6b)
 
 ## Features
 
@@ -62,10 +62,9 @@ To interact with the Zucker Bucks token, you will need:
 
 Join our community to stay updated with the latest news and developments:
 
-- [Official Website](http://yourwebsite.com)
-- [Telegram Group](http://t.me/yourtelegramgroup)
+
+- [Telegram](http://t.me/yourtelegramgroup)
 - [Twitter](http://twitter.com/yourtwitterhandle)
-- [Reddit](http://reddit.com/r/yourredditcommunity)
 - [Discord](http://discord.gg/yourdiscordserver)
 
 ## Contributing
