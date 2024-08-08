@@ -63,7 +63,7 @@ To interact with the Zucker Bucks token, you will need:
 Join our community to stay updated with the latest news and developments:
 
 
-- [Telegram](http://t.me/yourtelegramgroup)
+- [Telegram](http://t.me/zuckerbuckstoken)
 - [Twitter](http://twitter.com/ZuckerBuckss)
 - [Discord](http://discord.gg/yourdiscordserver)
 
