@@ -19,8 +19,8 @@ Welcome to the official repository of Zucker Bucks (ZUCK), a revolutionary crypt
 
 ## Smart Contract
 
-- **Contract Address:** `0x1c66b0b8a2078cf9711527b330dc6141b6634b6b`
-- **BscScan:** [View Contract](https://bscscan.com/address/0x1c66b0b8a2078cf9711527b330dc6141b6634b6b)
+- **Contract Address:** `0x28def224aae1b35f2fce6dc3b939534497b33874`
+- **BscScan:** [View Contract](https://bscscan.com/address/0x28def224aae1b35f2fce6dc3b939534497b33874)
 
 ## Features
 
