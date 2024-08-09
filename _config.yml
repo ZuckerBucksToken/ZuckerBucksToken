@@ -1,0 +1,16 @@
+title: ZuckerBucks (ZUCK)
+description: >- 
+  This is the official website for Zuck Token.
+  
+theme: jekyll-theme-cayman
+
+# Other configurations
+baseurl: "/"
+url: "https://Saeedam02.github.io"
+
+# Google Analytics
+google_analytics: UA-XXXXXXXX-X
+
+# Exclude files
+exclude:
+  - README.md
